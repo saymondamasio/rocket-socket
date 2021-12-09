@@ -36,13 +36,9 @@
   <a href="#-license">License</a>
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">A chat of messages</p>
+- <p>A chat of messages</p>
 
 <!-- To see the **web client**, click here: [PROJECT_NAME Web](https://github/saymondamasio/rentx-web)</br>
 To see the **mobile client**, click here: [PROJECT_NAME Mobile](https://github/saymondamasio/rentx-mobile) -->
@@ -61,7 +57,7 @@ Technologies that I used to develop this api
 
 ## 💻 Getting started
 
-Instale em sua maquina o MongoDB, em https://docs.mongodb.com/manual/installation 
+Instale em sua maquina o MongoDB, em https://docs.mongodb.com/manual/installation
 
 ### Requirements
 

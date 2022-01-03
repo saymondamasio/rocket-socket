@@ -1,0 +1,5 @@
+{
+  "name": "RocketSocket",
+  "description": "Um sitema de chat de mensagens instantâneas usando o Socket.io para multiplos usuarios",
+  "short_description": "Um chat de messagens"
+}

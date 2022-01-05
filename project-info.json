@@ -1,0 +1,39 @@
+{
+  "name": "RocketSocket",
+  "description": "Um sitema de chat de mensagens instantâneas usando o Socket.io para multiplos usuarios",
+  "short_description": "Um chat de messagens",
+  "techs": [
+    {
+      "name": "Node.js",
+      "url": "http://nodejs.org/"
+    },
+    {
+      "name": "Typescript",
+      "url": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "Express",
+      "url": "http://expressjs.com/"
+    },
+    {
+      "name": "Socket.io",
+      "url": "http://socket.io/"
+    },
+    {
+      "name": "Mongoose",
+      "url": "http://mongoosejs.com/"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://www.mongodb.com/"
+    },
+    {
+      "name": "UUID V4",
+      "url": "https://github.com/thenativeweb/uuidv4/"
+    },
+    {
+      "name": "Tsyringe",
+      "url": "https://github.com/microsoft/tsyringe/"
+    }
+  ]
+}
